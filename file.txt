@@ -1,1 +1,10 @@
-This file uses for testing git commands
+kkkkkkkkkk
+
+[33mcommit 7a4b6181ac9e03b11d1644928cbebe37cd08a28c[m
+Author: InnaPolushkina <innachka.polushkina@gmail.com>
+Date:   Fri Apr 19 15:05:53 2019 +0300
+
+    First commit
+
+
+
