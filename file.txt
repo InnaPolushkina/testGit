@@ -1,1 +1,29 @@
-This file uses for testing git commands
+[33mcommit 3c07166cfb3e4c6c8c7ff58d83405105551ccf70[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: InnaPolushkina <innachka.polushkina@gmail.com>
+Date:   Fri Apr 19 15:23:46 2019 +0300
+
+    f2
+
+[33mcommit 82293575855c5b234d2ba08dee81a1238ebedfff[m
+Author: InnaPolushkina <innachka.polushkina@gmail.com>
+Date:   Fri Apr 19 15:17:48 2019 +0300
+
+    add to git file.txt
+
+[33mcommit 17a14c5f669ddee3e230e59b7bd648b9981ddbcd[m
+Author: InnaPolushkina <innachka.polushkina@gmail.com>
+Date:   Fri Apr 19 15:15:41 2019 +0300
+
+    Add and edit file.txt
+
+[33mcommit 6de2d285bde36cd97aa7ec80ae5f9d1e81205023[m
+Author: InnaPolushkina <innachka.polushkina@gmail.com>
+Date:   Fri Apr 19 15:13:30 2019 +0300
+
+    Second commit
+
+[33mcommit 7a4b6181ac9e03b11d1644928cbebe37cd08a28c[m
+Author: InnaPolushkina <innachka.polushkina@gmail.com>
+Date:   Fri Apr 19 15:05:53 2019 +0300
+
+    First commit
