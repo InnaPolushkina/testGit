@@ -11,7 +11,7 @@ ii.u.
   </style>
 </head>
 <h1>hello</h1>
-<div class="class">
+<div background="red">
  
   <p>Lab2</p>
 </div>
